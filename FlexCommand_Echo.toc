@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: FlexCommand_Echo
+## Notes: FlexCommand Extension: Echo text in the default chatting frame, for demonstration purposes.
+## Author: HE Yaowen <he.yaowen@hotmail.com>
+## Version: 1.0.0
+## Dependencies: FlexCommand
+
+main.lua
